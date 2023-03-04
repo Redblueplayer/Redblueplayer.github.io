@@ -1,0 +1,371 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background-image:url(https://tse1.mm.bing.net/th/id/OIP.By_eWhULWDcaVxhr3DZKawHaHa?pid=ImgDet&rs=1)
+}
+
+
+#sqr {
+    z-index:10000;
+    position:-webkit-sticky;
+    position:sticky;
+    top:0;
+    bottom:10000in;
+    margin: -30px;
+    width: 2048px;
+    height: 108px;
+    background-color: #000000;
+    
+}
+
+#logo {
+    z-index:10000;
+    position:absolute;
+    top:12px;
+    left:20px;
+}
+
+
+#titrepage {
+  z-index:10000;
+  position:absolute;
+  color:white;
+  top:-10px;
+  left:125px;
+  font-family:fantasy, Copperplate;
+  font-size:2.5em;
+  letter-spacing:1px
+}
+
+#center {
+    position:absolute;
+    left:50%;
+    top:350px;
+    width: 900px;
+    height: 600px;
+    transform: translate(-50%, -0%);
+    background-color: #000000;
+    border-radius: 25px;
+}
+
+#aoimage {
+  position:absolute;
+  left:35%;
+  background-image: url(https://forum.arcaneodyssey.dev/uploads/default/original/3X/2/5/2519fd07c756b1ac96ff66945b6b0625bb3a421b.jpeg);
+  background-size:contain;
+  transform: translate(-35%, -0%);
+  width:320px;
+  height:180px;
+  border-radius:25px;
+  top:400px;
+}
+
+#aotitre {
+  position:absolute;
+  left:35%;
+  transform: translate(-35%, -0%);
+  top:570px;
+  color:white;
+  font-family:fantasy, Copperplate;
+  font-size:1.7em;
+}
+
+#csimage {
+  position:absolute;
+  left:65%;
+  background-image: url(https://tr.rbxcdn.com/29e58bbb76155bf97b8414b3d04bed91/500/280/Image/Jpeg);
+  background-size:contain;
+  transform: translate(-65%, -0%);
+  width:320px;
+  height:180px;
+  border-radius:25px;
+  top:400px;
+}
+
+#cstitre{
+  position:absolute;
+  left:63%;
+  transform: translate(-63%, -0%);
+  top:570px;
+  color:white;
+  font-family:fantasy, Copperplate;
+  font-size:1.7em;
+}
+
+#dftimage {
+  position:absolute;
+  left:35%;
+  background-image: url(https://tr.rbxcdn.com/0724e12cb388f2692b80abdf1a63d5ca/500/280/Image/Jpeg);
+  background-size:contain;
+  transform: translate(-35%, -0%);
+  width:320px;
+  height:180px;
+  border-radius:25px;
+  top:680px;
+}
+
+#dfttitre {
+  position:absolute;
+  left:35%;
+  transform: translate(-35%, -0%);
+  top:850px;
+  color:white;
+  font-family:fantasy, Copperplate;
+  font-size:1.7em;
+}
+
+#ssimage {
+  position:absolute;
+  left:65%;
+  background-image: url(https://tse2.mm.bing.net/th/id/OIP.njucLGQLzPN_67zB2QqI0AHaEK?pid=ImgDet&rs=1);
+  background-size:contain;
+  transform: translate(-65%, -0%);
+  width:320px;
+  height:180px;
+  border-radius:25px;
+  top:680px;
+}
+
+#sstitre{
+  position:absolute;
+  left:63%;
+  transform: translate(-63%, -0%);
+  top:850px;
+  color:white;
+  font-family:fantasy, Copperplate;
+  font-size:1.7em;
+}
+
+
+#aobande1 {
+  position:absolute;
+  top:1220px;
+  left:-12px;
+  width:2048px;
+  height:20px;
+  background-color:#000000;
+}
+
+#aobande2 {
+  position:absolute;
+  top:1440px;
+  left:-12px;
+  width:2048px;
+  height:20px;
+  background-color:#000000;
+}
+
+#aobg {
+  position:absolute;
+  top:1240px;
+  left:200px;
+  width:2048px;
+  height:200px;
+  background-color:#FFFFFF;
+}
+
+#aoimge {
+  position:absolute;
+  top:1240px;
+  left:-12px;
+  z-index:2;
+}
+
+#aotexte {
+  position:absolute;
+  top:1240px;
+  left:375px;
+  font-family:fantasy, Copperplate;
+  font-size:1.2em;
+}
+
+#csbande1 {
+  position:absolute;
+  top:1600px;
+  left:-12px;
+  width:2048px;
+  height:20px;
+  background-color:#000000;
+}
+
+#csbande2 {
+  position:absolute;
+  top:1820px;
+  left:-12px;
+  width:2048px;
+  height:20px;
+  background-color:#000000;
+}
+
+#csimge {
+  position:absolute;
+  top:1620px;
+  left:0px;
+  width:360px;
+  height:220px;
+}
+
+#csbg {
+  position:absolute;
+  top:1620px;
+  left:200px;
+  width:2048px;
+  height:200px;
+  background-color:#FFFFFF;
+}
+
+#cstexte {
+  position:absolute;
+  top:1620px;
+  left:375px;
+  font-family:fantasy, Copperplate;
+  font-size:1.2em;
+}
+
+
+#dftimge {
+  position:absolute;
+  top:2000px;
+  left:0px;
+  width:360px;
+  height:200px;
+}
+
+#dftbande1 {
+  position:absolute;
+  top:1980px;
+  left:-12px;
+  width:2048px;
+  height:20px;
+  background-color:#000000;
+}
+  
+
+#dftbande2 {
+  position:absolute;
+  top:2200px;
+  left:-12px;
+  width:2048px;
+  height:20px;
+  background-color:#000000;
+}
+
+#dftbg {
+  position:absolute;
+  top:2000px;
+  left:200px;
+  width:2048px;
+  height:200px;
+  background-color:#FFFFFF;
+}
+
+#dfttexte {
+  position:absolute;
+  top:2010px;
+  left:375px;
+  font-family:fantasy, Copperplate;
+  font-size:1.2em;
+}
+
+
+#ssbande1 {
+  position:absolute;
+  top:2340px;
+  left:-12px;
+  width:2048px;
+  height:20px;
+  background-color:#000000;
+}
+
+#ssbande2 {
+  position:absolute;
+  top:2560px;
+  left:-12px;
+  width:2048px;
+  height:20px;
+  background-color:#000000;
+}
+
+#sstexte {
+  position:absolute;
+  top:2370px;
+  left:375px;
+  font-family:fantasy, Copperplate;
+  font-size:1.2em;
+}
+
+#ssimge {
+  position:absolute;
+  top:2360px;
+  left:0px;
+  width:360px;
+  height:200px;
+}
+
+#ssbg {
+  position:absolute;
+  top:2360px;
+  left:200px;
+  width:2048px;
+  height:200px;
+  background-color:#FFFFFF;
+}
+
+#itsfree {
+  position:absolute;
+  top:2700px;
+  left:50%;
+  transform: translate(-50%, -0%);
+  font-family:fantasy, Copperplate;
+  font-size:1.5em;
+  color:black;
+  z-index:4;
+}
+
+#davideo {
+  position:absolute;
+  top:2800px;
+  left:50%;
+  transform: translate(-50%, -0%);
+  z-index:5;
+}
+
+#fin {
+  position:absolute;
+  top:3300px;
+  left:-12px;
+  width:2048px;
+  height:600px;
+  background-color:#000000;
+}
+
+#mention {
+  position:absolute;
+  top:3340px;
+  left:300px;
+  font-family:fantasy, Copperplate;
+  font-size:1.5em;
+  color:white;
+  z-index:4;
+}
+
+#mentions {
+  position:absolute;
+  top:3380px;
+  left:200px;
+  font-family:fantasy, Copperplate;
+  font-size:1.2em;
+  color:white;
+  z-index:4;
+}
+
+#tableau {
+  position:absolute;
+  top:3780px;
+  left:50%;
+  transform: translate(-50%, -0%);
+  z-index:4;
+  color:white;
+  font-family:fantasy, Copperplate;
+  font-size:1.2em;
+}
